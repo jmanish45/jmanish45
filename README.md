@@ -1,36 +1,19 @@
 # Hi, I'm Manish Jaiswal 👋
 
-🎓 AI & Data Science undergraduate (2027)  
+🎓 AI & Data Science undergraduate (Batch of 2027)  
 📍 Pune, India  
-💡 Focused on problem-solving, clean system design, and building useful tech
+💡 Focused on problem-solving, clean system design, and building useful software
 
 ---
 
 ## About Me
 
-- Passionate web developer with buidling real world appliation apps 
-- Strong in **DSA (C++)**, logical problem-solving, and core CS fundamentals
-- Interested in **AI-powered applications** and **product-oriented development**
-- I care more about **understanding systems deeply** than chasing tools
+- AI & DS student with a **9.04 CGPA** and strong command over core CS fundamentals  
+- Solid foundation in **Data Structures & Algorithms (C++)** and logical problem-solving  
+- Interested in **AI-powered applications** and **product-oriented backend development**  
+- I prioritize **deep understanding and correctness** over chasing tools or trends
 
 ---
-
-
-## Tech Stack (No fluff)
-
-**Languages:**  
-`C++` `Python` `SQL`
-
-**Core Concepts:**  
-`Data Structures & Algorithms`  
-`OOP` `DBMS` `OS` `CN`
-
-**Web & Tools:**  
-`Flask` `Git` `GitHub`  
-`Basic AWS (EC2, S3)`
-
----
-## LeetCode Stats
 
 ## LeetCode Profile
 
@@ -38,15 +21,35 @@
   <img src="https://leetcard.jacoblin.cool/jmanish45?theme=dark&font=Karma&ext=contest" />
 </a>
 
-
+<p align="left">
+  <a href="https://leetcode.com/u/jmanish45/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-jmanish45-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+## Tech Stack (No fluff)
+
+**Languages**  
+`C++` `Python` `SQL`
+
+**Core CS**  
+`Data Structures & Algorithms`  
+`OOP` `DBMS` `Operating Systems` `Computer Networks`
+
+**Web & Tools**  
+`Flask` `Git` `GitHub`  
+`AWS (EC2, S3 – basics)`
+
+---
+
 ## Projects Worth Looking At
 
 - **PerPage** – Student-to-student academic assistance platform  
-  _Product workflow, user research, and system design focused_
+  _Focused on product workflow design, user research, and system-level thinking_
 
-➡️ More projects coming — quality over quantity.
+➡️ I prefer **few meaningful projects** over many shallow ones.
 
 ---
 
@@ -60,9 +63,9 @@
 
 ## Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/manish-jaiswal-b282a9245/
-- 📧 Email: jmanish2406@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/manish-jaiswal-b282a9245/  
+- 📧 Email: jmanish2406@gmail.com  
 
 ---
 
-
+*Strong fundamentals > flashy tech. Always.*
