@@ -17,15 +17,11 @@
 
 ## LeetCode Profile
 
-<a href="https://leetcode.com/u/jmanish45/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/jmanish45?theme=dark&font=Karma&ext=contest" />
-</a>
+## LeetCode Stats
 
-<p align="left">
-  <a href="https://leetcode.com/u/jmanish45/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-jmanish45-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/jmanish45?theme=dark&font=Karma&ext=contest)   ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=jmanish45&animated=true)
+
+
 
 
 ---
