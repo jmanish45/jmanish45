@@ -29,7 +29,7 @@
 
 
 ---
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={jmanish45}" alt="LeetCode Badges" />
+
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=jmanish45&animated=true)
 ## Tech Stack (No fluff)
