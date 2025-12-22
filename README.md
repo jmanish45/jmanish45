@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={jmanish45}" alt="LeetCode Badges" />
 ---
 
 ## Tech Stack (No fluff)
