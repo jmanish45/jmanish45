@@ -32,9 +32,12 @@
 ---
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jmanish45?theme=dark&font=Karma&ext=contest)  
+## LeetCode Profile
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/jmanish45/)
+<a href="https://leetcode.com/u/jmanish45/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/jmanish45?theme=dark&font=Karma&ext=contest" />
+</a>
+
 
 
 ---
