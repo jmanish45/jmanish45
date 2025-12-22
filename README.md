@@ -30,7 +30,11 @@
 `Basic AWS (EC2, S3)`
 
 ---
+## LeetCode Stats
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/jmanish45?theme=dark&font=Karma&ext=contest)
+
+---
 ## Projects Worth Looking At
 
 - **PerPage** – Student-to-student academic assistance platform  
