@@ -19,7 +19,9 @@
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jmanish45?theme=dark&font=Karma&ext=contest) ..   ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=jmanish45&animated=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jmanish45?theme=dark&font=Karma&ext=contest) .. 
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=jmanish45&theme=dark&animated=true&border=no-border)
 
 
 
