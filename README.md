@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Manish Jaiswal 👋
 
-<!--
-**jmanish45/jmanish45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science undergraduate (2027)  
+📍 Pune, India  
+💡 Focused on problem-solving, clean system design, and building useful tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Passionate web developer with buidling real world appliation apps 
+- Strong in **DSA (C++)**, logical problem-solving, and core CS fundamentals
+- Interested in **AI-powered applications** and **product-oriented development**
+- I care more about **understanding systems deeply** than chasing tools
+
+---
+
+
+## Tech Stack (No fluff)
+
+**Languages:**  
+`C++` `Python` `SQL`
+
+**Core Concepts:**  
+`Data Structures & Algorithms`  
+`OOP` `DBMS` `OS` `CN`
+
+**Web & Tools:**  
+`Flask` `Git` `GitHub`  
+`Basic AWS (EC2, S3)`
+
+---
+
+## Projects Worth Looking At
+
+- **PerPage** – Student-to-student academic assistance platform  
+  _Product workflow, user research, and system design focused_
+
+➡️ More projects coming — quality over quantity.
+
+---
+
+## GitHub Stats
+
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmanish45&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmanish45&layout=compact&theme=github_dark)
+
+---
+
+## Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/manish-jaiswal-b282a9245/
+- 📧 Email: jmanish2406@gmail.com
+
+---
+
+
