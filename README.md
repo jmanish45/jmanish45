@@ -5,7 +5,6 @@
 💡 Focused on problem-solving, clean system design, and building useful software
 
 ---
-
 ## About Me
 
 - AI & DS student with a **9.04 CGPA** and strong command over core CS fundamentals  
