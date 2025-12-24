@@ -32,16 +32,7 @@
 
 ## Tech Stack (No fluff)
 
-**Languages**  
-`C++` `Python` `SQL`
-
-**Core CS**  
-`Data Structures & Algorithms`  
-`OOP` `DBMS` `Operating Systems` `Computer Networks`
-
-**Web & Tools**  
-`Flask` `Git` `GitHub`  
-`AWS (EC2, S3 – basics)`
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="73" height="73" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="73" height="73" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="73" height="73" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="73" height="73" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="73" height="73" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="73" height="73" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="73" height="73" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="73" height="73" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="73" height="73" /></div>
 
 ---
 
